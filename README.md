@@ -12,7 +12,6 @@ Test Cases/
 ├── Auth/           → Flujos de login, logout y login reutilizable
 ├── Dashboard/      → Validaciones generales del entorno post-login
 ├── Empleados/      → Casos CRUD completos sobre empleados
-├── Negativos/      → Validaciones con entradas erróneas
 
 Object Repository/
 ├── Auth object/
@@ -88,7 +87,7 @@ Las `Test Suites` están preparadas para ejecución secuencial de pruebas comple
 
 ---
 
-## 📂 Próximas Extensiones (opcional)
+## 📂 Próximas Extensiones
 
 - Integración con datos externos (`Data Files` o `Excel`)
 - Validaciones visuales (pantallazos con `takeScreenshot`)
