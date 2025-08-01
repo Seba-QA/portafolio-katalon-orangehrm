@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login sin creenciales</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>461b87f8-dc1b-473f-a608-2ff3f977e3a8</testCaseGuid>
+</TestCaseEntity>

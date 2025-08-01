@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Acceder a my info</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>865c36f2-41e2-4f9a-ac5f-4d6a257c61aa</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,56 @@
+{
+  "keywordFileContentHash": "607117FA8A134117C0544B0BC6A41C4E",
+  "keywordClasses": [
+    {
+      "name": "helpers.PIM",
+      "keywordMethods": [
+        {
+          "name": "validarElemento",
+          "parameters": [
+            {
+              "name": "tipo",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            },
+            {
+              "name": "objeto",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "com.kms.katalon.core.testobject.TestObject",
+                "unresolvedClassName": "TestObject",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            },
+            {
+              "name": "palabraCSS",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": "/**\n\t * Ejecuta una validación según el tipo:\n\t * @param tipo: \"visibilidad\" o \"css\"\n\t * @param objeto: TestObject\n\t * @param palabraCSS: palabra a buscar dentro del atributo style (ej: \"right\" o \"left\")\n\t */"
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

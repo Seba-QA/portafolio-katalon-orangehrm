@@ -1,0 +1,42 @@
+# === Carpetas y archivos generados automáticamente ===
+/bin/
+/Libs/
+/build/
+/Reports/
+/.tmp/
+/.sonar/
+
+# === Configuración del IDE ===
+.classpath
+.project
+.settings/
+.idea/
+*.iml
+
+# === Archivos innecesarios o del sistema operativo ===
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+
+# === Gradle ===
+.gradle/
+!build.gradle
+!settings.gradle
+
+# === Katalon Web Recorder y configuración temporal ===
+/screenshots/
+/testng/testng-customsuite.xml
+
+# === VS Code o editores externos (si se usa) ===
+.vscode/
+
+# === Archivos del sistema operativo ===
+*.swp
+*.bak
+
+# === Archivos personales (por si acaso) ===
+*.user
+*.prefs
+*.launch
+
